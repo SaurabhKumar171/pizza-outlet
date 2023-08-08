@@ -52,7 +52,7 @@ function makePopupContent(shop){
 }
 
 var myIcon= L.icon({
-    iconUrl:"icon.png",
+    iconUrl:"images/icon.png",
     iconSize:[30,40]
 });
 
